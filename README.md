@@ -1,4 +1,4 @@
-<h1 align="center">Hi I am <span style="color:red"><i>GHIST-IT</i></span> ! </h1>
+<h1 align="center">Hi I am <span style="color:red"><i>GHOST-IT</i></span> ! </h1>
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=root@kali:~/++whoami;Student;Security_Researcher;CTF_Player;Programmer&font=Fira%20Code&center=true&width=380&height=50">
